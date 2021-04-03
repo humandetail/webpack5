@@ -1,0 +1,14 @@
+.hello {
+  display: flex;
+  font-size: 40px;
+  color: #0098ff;
+  border: 3px solid #333;
+  border-radius: 10px;
+  // background: url('./logo.png');
+  // transform: skew(15deg);
+  line-height: 100px;
+
+  .world {
+    color: red;
+  }
+}
